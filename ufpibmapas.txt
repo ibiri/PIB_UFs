@@ -1,0 +1,28 @@
+UF	Valor
+São Paulo	2377639 
+Rio de Janeiro	753824 
+Minas Gerais	682786 
+Paraná	487931 
+Rio Grande do Sul	470942 
+Santa Catarina	349275 
+Bahia	305321 
+Distrito Federal	265847 
+Goiás	224126 
+Pará	215936 
+Pernambuco	193307 
+Mato Grosso 	178650 
+Ceará	166915 
+Espírito Santo	138446 
+Mato Grosso do Sul	122628 
+Amazonas	116019 
+Maranhão	106916 
+Rio Grande do Norte	71577 
+Paraíba	70292 
+Alagoas	63202 
+Piauí	56391 
+Rondônia	51599 
+Sergipe	45410 
+Tocantins	43650 
+Amapá	18469 
+Acre	16476 
+Roraima	16024 
